@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="kilim">
+    <CLASSES>
+      <root url="jar://D:/source/kilim-master/libs/asm-all-2.2.3.jar!/" />
+      <root url="jar://D:/source/kilim-master/libs/junit.jar!/" />
+      <root url="jar://D:/source/kilim/kilim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
